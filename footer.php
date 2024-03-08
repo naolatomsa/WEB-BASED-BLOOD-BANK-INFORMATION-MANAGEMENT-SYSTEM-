@@ -16,10 +16,11 @@
 </head>
 <body>
   <div id="footer" >
-  <b><center>COPYRIGHT © 2020<br>
-  Blood Bank & Donation Management
+    
+  <b><center>
+    © 2020 DireDawa Blood bank<br>
   <br>
-  ALL RIGHTS RESERVED.
+  
   </center>
   </div>
 

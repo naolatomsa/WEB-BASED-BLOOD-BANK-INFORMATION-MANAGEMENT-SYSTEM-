@@ -15,12 +15,15 @@
 
     <div class="container" style="margin-top:200px;">
       <div class="row justify-content-center">
-          <div class="col-lg-6">
-              <h1 class="mt-4 mb-3" style="color:#D2F015 ;">
-                  Blood Bank & Management
+      <div class="card" style="height:150px; background-image:url('admin_image/glossy1.jpg');">
+          <div class="card-body">
+          <div>
+              <h1 class="mt-4 mb-3" style="color:black ;">
+                  DireDawa Blood Bank
                   <br>Admin Login Portal
                 </h1>
-
+              </div>
+              </div>
             </div>
       </div>
       <div class="card" style="height:250px; background-image:url('admin_image/glossy1.jpg');">

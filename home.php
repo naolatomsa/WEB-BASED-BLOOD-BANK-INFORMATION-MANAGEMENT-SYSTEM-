@@ -38,7 +38,7 @@ include('head.php'); ?>
     <!-- The slideshow -->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="image\_107317099_blooddonor976.jpg" alt="image\_107317099_blooddonor976.jpg" width="100%" height="500">
+        <img src="image/blood.jpg" alt="image" width="100%" height="500">
       </div>
       <div class="carousel-item">
         <img src="image\Blood-facts_10-illustration-graphics__canteen.png" alt="image\Blood-facts_10-illustration-graphics__canteen.png" width="100%" height="500">
@@ -55,7 +55,7 @@ include('head.php'); ?>
     </a>
   </div>
 <br>
-        <h1 style="text-align:center;font-size:45px;">Welcome to BloodBank & Donor Management System</h1>
+        <h1 style="text-align:center;font-size:45px;">WELCOME TO DIREDAWA BLOOD BANK INFORMATION MANAGEMENT SYSTEM </h1>
 <br>
         <div class="row">
             <div class="col-lg-4 mb-4">
